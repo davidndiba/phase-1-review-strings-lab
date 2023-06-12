@@ -4,7 +4,9 @@
 
 - Concatenate strings with the `+` operator
 - Interpolate variables and other JavaScript expressions inside template literals
-- Read the MDN documentation on string methods and practice using a few
+- Read the MDN documentation on string methods and practice using a fews-basics-strings-code-alons-basics-strings-code-along@0.1.0 postinstall
+js-basics-strings-code-along@0.1.0: command not foundg@0.1.0 postinstall
+js-basics-strings-code-along@0.1.0: command not found
 
 ## Introduction
 
@@ -222,7 +224,7 @@ const currentUser = 'Grace Hopper';
 
 const welcomeMessage = `Welcome to Flatbook, ${currentUser}!`;
 
-const excitedWelcomeMessage = welcomeMessage.toUpperCase();
+const cexcitedWelcomeMessage = welcomeMessage.toUpperCase();
 ```
 
 All strings in JavaScript have access to the same set of default methods, which
